@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": 1,
-      "title": "hello mendix"
+      "assignee": "Bobbie",
+      "team": "Test",
+      "category": "cooking",
+      "Due Date": "1-24-2020",
+      "title": "Make me a biscuit"
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
