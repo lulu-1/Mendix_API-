@@ -3,19 +3,19 @@
     {
       "id": 1,
        "Due Date": "1-24-2020",
-      "iscomplete" : true 
+      "iscomplete" : true ,
       "title": "hello to you"
     },
      {
       "id": 2,
       "Due Date": "1-24-2020",
-      "iscomplete" : false 
+      "iscomplete" : false ,
       "title": "hello mendix"
     },
     {
       "id": 3,
       "Due Date": "1-24-2020",
-         "iscomplete" : false 
+         "iscomplete" : false ,
       "title": "Make me a biscuit"
     }
   ]
