@@ -1,5 +1,5 @@
 
-{  "Tasks": [
+{  ["Tasks": [
     {
       "id": 1,
        "Due Date": "1-24-2020",
@@ -22,8 +22,7 @@
  "profile" : {
     "names": "lulu"
   },
-  "Tasks 2": [
-    {
+ {
       "id": 1,
        "Due Date": "1-24-2020",
       "iscomplete" : true ,
@@ -43,7 +42,9 @@
     }
   ],
  "profile" : {
-    "names": "lulus"
+    "names": "lulu"
   }
+ 
+ ]
 }
 
