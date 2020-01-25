@@ -3,7 +3,6 @@
     {
       "id": 1,
        "Due Date": "2-25-2020",
-        "Assigned": "Bruce Banner",
       "iscomplete" : true ,
       "title": "Make a biscuit"
     },
