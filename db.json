@@ -2,7 +2,8 @@
 {  "Tasks": [
     {
       "id": 1,
-       "Due Date": 2020-03-12T13:37:27+00:00,
+       "Due Date": "2-25-2020",
+        "Assigned": "Bruce Banner",
       "iscomplete" : true ,
       "title": "Make a biscuit"
     },
