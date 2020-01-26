@@ -4,19 +4,19 @@
       "id": 1,
        "Due Date": "25-02-2020",
       "iscomplete" : true ,
-      "title": "Make a biscuit"
+      "title": "Hi, I was just called from the server "
     },
      {
       "id": 2,
       "Due Date": "29-01-2020",
       "iscomplete" : false ,
-      "title": "hello mendix"
+      "title": "Hello mendix"
     },
     {
       "id": 3,
       "Due Date": "30-01-2020",
          "iscomplete" : false ,
-      "title": "Hello to you"
+      "title": "It was fun hanging"
     }
   ],
  "profile" : {
